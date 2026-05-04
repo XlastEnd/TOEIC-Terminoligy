@@ -1,1 +1,1 @@
-# TOEIC-Terminoligy
+# TOEIC-Terminology
